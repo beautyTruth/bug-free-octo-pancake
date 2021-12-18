@@ -1,13 +1,13 @@
-// Example 3
-let movie = "The Revenant";
+// // Example 3
+// let movie = "The Revenant";
 
-let myMovie = function () {
-  console.log(movie);
-};
+// let myMovie = function () {
+//   console.log(movie);
+// };
 
-// myMovie();
+// // myMovie();
 
-movie = "Django Unchained";
+// movie = "Django Unchained";
 
 // myMovie();
 
@@ -35,3 +35,5 @@ for (let i = 1; i <= 3; i++) {
     console.log(`i: ${i}`);
   }, i * 1000);
 }
+
+// be good to yourself
